@@ -39,7 +39,7 @@ if(isset($_POST['confirm'])){
 
 
 
-<div class="container py-5 " align="center">
+<div class="container my-auto " align="center" style="padding-top: 80px">
     <div class="card col-sm-8 mt-lg-5 " style="border-radius: 25px; background-image: linear-gradient(#D3CCE3,#E9E4F0); height: 100%; ">
         <div class="card-body py-0 pt-3">
                 <div class=""  align="center">

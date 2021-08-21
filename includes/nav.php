@@ -1,4 +1,4 @@
-<section class="w3l-bootstrap-header">
+<section class="d-print-none w3l-bootstrap-header">
     <nav class="navbar navbar-expand-lg navbar-light py-lg-3 py-2">
         <div class="container">
 
